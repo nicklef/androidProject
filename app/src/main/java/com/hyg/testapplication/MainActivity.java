@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         workBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mainTV.setText("It Worked");
+                mainTV.setText("It Worked Well!");
             }
         });
     }
